@@ -1,0 +1,11 @@
+{
+  "launcherVersion": "0.0.0",
+  "launcherUrl": "https://genlauncher-cdn.pages.dev/files/GenLauncher.exe",
+  "files": [
+    {
+      "path": "gen_test.txt",
+      "hash": "e99b42dfa11205b709248741d02c074f",
+      "url": "https://genlauncher-cdn.pages.dev/files/gen_test.txt"
+    }
+  ]
+}
