@@ -1,11 +1,11 @@
 {
   "launcherVersion": "0.0.0",
-  "launcherUrl": "https://genlauncher-cdn.pages.dev/files/GenLauncher.exe",
+  "launcherUrl": "https://github.com/ewqewqeqweqweqweewq-art/GENRUST/raw/refs/heads/main/files/game/GenLauncher.exe",
   "files": [
     {
       "path": "gen_test.txt",
       "hash": "e99b42dfa11205b709248741d02c074f",
-      "url": "https://genlauncher-cdn.pages.dev/files/gen_test.txt"
+      "url": "https://github.com/ewqewqeqweqweqweewq-art/GENRUST/raw/refs/heads/main/files/game/1.txt"
     }
   ]
 }
